@@ -1,4 +1,8 @@
 
+* Mon July 09 2018 Pravin Satpute <psatpute@redhat.com> 1.07.5
+- Removed LiberationSansNarrow from this repo, Now One can get
+  LiberationSansNarrow from https://github.com/liberationfonts/liberation-sans-narrow
+- Updating font version to 1.07.5
 - Resolved #1009650, Resolved issue with Liberation Sans Italic
 - Resolved #1094779,  No Cyrillic Italic Glyphs for Sans, Sans Narrow and Mono
 
