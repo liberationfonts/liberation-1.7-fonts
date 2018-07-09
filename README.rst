@@ -13,6 +13,8 @@ History
 
 + "On Jul 18, 2012, Liberation fonts 2.00.0 version is released based on croscore fonts to resolve long standing licensing problem and also get more coverage present in croscore fonts."
 
++ Liberation 1.07.* has a bytecode hinting instructions and Liberation 2.00.* has automated hinting instruction. Though shapes are same due to hinting instruction, it gives different rendering experience. Many users still like liberation 1.07. Now liberation has 3 repos 1. Liberation 1.07, 2 Liberation Narrow and 3. Liberation in at `<https://github.com/liberationfonts>`_
+
 
 License
 #######
@@ -27,16 +29,8 @@ Download
 ########
 
 
-Current Release
+Current Release 
 ***************
-
-**Note**: 2.00.0 onward releases does not includes Liberation Sans Narrow font due to licensing problems. Please refer to older releases for Liberation Sans Narrow font.
-
-
-+ Binary (ttf): `liberation-fonts-ttf-2.00.1.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-ttf-2.00.1.tar.gz>`_
-+ Source (sfd): `liberation-fonts-2.00.1.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-2.00.1.tar.gz>`_
-
-
 
 + Binary (ttf): `liberation-fonts-ttf-1.07.4.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-2.00.1.tar.gz>`_
 + Source (sfd): `liberation-fonts-1.07.4.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-1.07.4.tar.gz>`_
@@ -48,12 +42,6 @@ ttf files from sources.
 
 Previous Releases
 *****************
-
-
-+ Binary (ttf): `liberation-fonts-ttf-2.00.0.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-ttf-2.00.0.tar.gz>`_
-+ Source (sfd): `liberation-fonts-2.00.0.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-2.00.0.tar.gz>`_
-
-
 
 + Binary (ttf): `liberation-fonts-ttf-1.07.3.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-2.00.0.tar.gz>`_
 + Source (sfd): `liberation-fonts-1.07.3.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-1.07.3.tar.gz>`_
@@ -91,13 +79,13 @@ Anonymous GIT access
 
 ::
 	
-	$ git clone `<https://pagure.io/liberation-fonts.git>`_
+	$ git clone `<https://github.com/liberationfonts/liberation-1.7-fonts.git>`_
 
 Read and Write Url
  
 ::
 
-	$ git clone `<ssh://git@pagure.io/liberation-fonts.git>`_
+	$ git clone `<git@github.com:liberationfonts/liberation-1.7-fonts.git>`_
 
 Other Requirements
 ******************
@@ -163,4 +151,3 @@ Developers
 
 + Pravin Satpute - current maintainer
 + Herbert Duerr - contributed SansNarrow
-+ Caius Chance - former maintainer
