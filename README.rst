@@ -32,7 +32,7 @@ Download
 Current Release 
 ***************
 
-+ Binary (ttf): `liberation-fonts-ttf-1.07.4.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-2.00.1.tar.gz>`_
++ Binary (ttf): `liberation-fonts-ttf-1.07.4.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-ttf-1.07.4.tar.gz>`_
 + Source (sfd): `liberation-fonts-1.07.4.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-1.07.4.tar.gz>`_
 
 
@@ -43,7 +43,7 @@ ttf files from sources.
 Previous Releases
 *****************
 
-+ Binary (ttf): `liberation-fonts-ttf-1.07.3.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-2.00.0.tar.gz>`_
++ Binary (ttf): `liberation-fonts-ttf-1.07.3.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-ttf-1.07.3.tar.gz>`_
 + Source (sfd): `liberation-fonts-1.07.3.tar.gz <https://releases.pagure.org/liberation-fonts/liberation-fonts-1.07.3.tar.gz>`_
 
 
